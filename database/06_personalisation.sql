@@ -1,0 +1,3 @@
+-- PHASE 12: YOUR OWN WORK
+-- 12.1 Add 5 movies (include at least one new genre: Horror, Romance or Documentary)
+-- 12.2 Add a column, e.g.:  alter table movies add column director text;
