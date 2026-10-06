@@ -1,8 +1,8 @@
 # 🎬 CineSuper — Mini OTT Movie Database
 
-**Live Demo:** https://YOUR-USERNAME.github.io/cinesuper-YOUR-REGNO/
+**Live Demo:** https://anumodssunil2008-design.github.io/cinesuper-jsoft26216/
 
-**Student:** YOUR NAME | **Reg No:** REG NO
+**Student:** Anumod S Sunil | **JSOFT ID:** jsoft26216
 **Institution:** Jain School of Future Technology
 **Course:** Database Management Systems | **Faculty:** Sathish Kumar M
 
